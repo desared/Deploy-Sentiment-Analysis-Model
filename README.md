@@ -1,5 +1,5 @@
 # SageMaker Machine Learning in Production Project
-Project for [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t?utm_source=classcentral&utm_medium=ads_n&utm_campaign=fmf&utm_term=personal_discount&utm_content=nd009t), unit 3.
+Project for [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t), unit 3.
 
 ## Deploy Sentiment Analysis Model
 
